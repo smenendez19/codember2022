@@ -19,6 +19,7 @@ Repositorio para ir publicando las soluciones de los challenges del evento Codem
 - [Challenge 02](https://github.com/SantiMenendez19/codember/tree/main/challenge02)
 - [Challenge 03](https://github.com/SantiMenendez19/codember/tree/main/challenge03)
 - [Challenge 04](https://github.com/SantiMenendez19/codember/tree/main/challenge04)
+- [Challenge 05](https://github.com/SantiMenendez19/codember/tree/main/challenge05)
 
 ## URL
 
